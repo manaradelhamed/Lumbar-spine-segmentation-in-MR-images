@@ -1,0 +1,4 @@
+https://zenodo.org/record/10159290/files/masks.zip
+https://zenodo.org/record/10159290/files/radiological_gradings.csv
+https://zenodo.org/record/10159290/files/images.zip
+https://zenodo.org/record/10159290/files/overview.csv
